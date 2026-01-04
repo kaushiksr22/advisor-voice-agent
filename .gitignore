@@ -19,3 +19,7 @@ dist/
 # Temp
 tmp/
 *.log
+
+# Google OAuth secrets
+backend/credentials.json
+backend/token.json
